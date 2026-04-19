@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**daryzhk/daryzhk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## <p align="center"><img width="36" height="36" src="https://github.com/user-attachments/assets/8f377767-6fa9-4745-8791-537e243a6673" /> Привет-привет!</p>
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Я - начинающий разработчик!
+
+Сейчас больше всего интересуюсь backend-разработкой: изучаю Python и пробую разные фреймворки.  
+
+В реальной жизни являюсь студентом, ранее училась на веб-разработчика (fullstack).  
+
+</div>
+
+## Технический стек
+
+- Python, Flask, Django  
+- HTML, CSS, JavaScript (базовый уровень)  
+- SQL (базовый уровень)  
+- Git, GitHub  
+
+## Проекты
+
+### LoL Stats Overlay  
+
+Десктопное приложение для отображения и анализа характеристик чемпиона в League of Legends в реальном времени.  
+
+🔗 https://github.com/daryzhk/Lol-Stats-Overlay
