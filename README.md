@@ -20,8 +20,14 @@
 
 ## Проекты
 
-### LoL Stats Overlay  
+### LoL Stats Overlay
 
 Десктопное приложение для отображения и анализа характеристик чемпиона в League of Legends в реальном времени.  
 
 🔗 https://github.com/daryzhk/Lol-Stats-Overlay
+
+### Task Tracker
+
+Консольное приложение для создания, редактирования и отслеживания задач с анализом их выполнения.
+
+🔗 https://github.com/daryzhk/Task-Tracker
